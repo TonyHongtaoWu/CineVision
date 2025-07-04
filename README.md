@@ -1,8 +1,5 @@
-# CineVision
-
-
 <div align="center">
-  <h1> CineVision </h1>
+  <h1> :movie_camera: CineVision (UIST 25)</h1>
   <h2> An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboration </h2>
 </div>
 
