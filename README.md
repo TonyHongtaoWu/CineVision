@@ -8,4 +8,20 @@
 
 This repository is the official implementation of the paper titled 'CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboration'. 
 
+
 The code and demo are expected to be open source before the conference date.
+
+
+
+### • Framework
+
+![image](./fig/result.png)
+
+### • Demo
+
+![image](./fig/pipeline.png)
+
+
+### • Result
+
+![image](./fig/result2.png)
