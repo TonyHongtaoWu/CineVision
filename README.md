@@ -13,7 +13,7 @@ This repository is the official implementation of the paper titled 'CineVision: 
 <p align="justify">
 <b>Abstract:</b> <i>
 
-Effective communication between directors and cinematographers is fundamental in film production, yet traditional approaches relying on visual references and hand-drawn storyboards often lack the efficiency and precision necessary during pre-production. We present CineVision, an AI-driven platform that integrates scriptwriting with real-time visual pre-visualization to bridge this communication gap. By offering dynamic lighting control, style emulation based on renowned filmmakers, and customizable character design, CineVision enables directors to convey their creative vision with heightened clarity and rapidly iterate on scene composition. In a user study involving 24 participants, CineVision significantly outperformed both hand-drawn storyboard creation and AI-assisted workflows in lowering communication barriers, accelerating storyboard development, and improving overall production coordination. These findings underscore CineVision’s potential to streamline pre-production processes and foster deeper creative synergy among filmmaking teams, particularly for new collaborators.
+Effective communication between directors and cinematographers is fundamental in film production, yet traditional approaches relying on visual references and hand-drawn storyboards often lack the efficiency and precision necessary during pre-production. We present CineVision, an AI-driven platform that integrates scriptwriting with real-time visual pre-visualization to bridge this communication gap. By offering dynamic lighting control, style emulation based on renowned filmmakers, and customizable character design, CineVision enables directors to convey their creative vision with heightened clarity and rapidly iterate on scene composition. In a 24-participant lab study, CineVision yielded shorter task times and higher usability ratings than two baseline methods, suggesting a potential to ease early-stage communication and accelerate storyboard drafts under controlled conditions. These findings underscore CineVision’s potential to streamline pre-production processes and foster deeper creative synergy among filmmaking teams, particularly for new collaborators.
   
 </i>
 </p>
@@ -30,7 +30,7 @@ The code and demo are expected to be open source before the conference date.
 
 ### • Framework
 
-![image](./fig/result.png)
+![image](./fig/UIST.png)
 
 ### • Demo
 
