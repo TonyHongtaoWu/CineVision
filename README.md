@@ -22,9 +22,7 @@ Effective communication between directors and cinematographers is fundamental in
 
 
 
-
-
-The code and demo are expected to be open source before the conference date.
+The code and demo are expected to be released before the conference
 
 
 
