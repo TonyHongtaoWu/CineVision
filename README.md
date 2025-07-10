@@ -33,7 +33,8 @@ The code and demo are expected to be released before the conference
 ### • Demo
 
 ![image](./fig/pipeline.png)
-
+![image](./fig/page1.png)
+![image](./fig/page2.png)
 
 ### • Result
 
